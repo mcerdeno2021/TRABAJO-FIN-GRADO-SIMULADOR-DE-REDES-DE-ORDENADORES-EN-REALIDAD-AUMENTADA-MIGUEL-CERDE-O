@@ -12,7 +12,7 @@
 
 ## 1. Primer diseño de los PCs, Routers y Switches en el escenario principal.
 
-- En la pantalla principal aparecerá el escenario, se generará con un diseño similar al de netgui pero con un aspecto un poco más moderno, fondo azul claro, con los pc como portátiles, y los routers y switches con un diseño más adaptado a los actuales. Los cables, aunque de lejos parezcan planos, tendrán cuerpo, al igual que todos los demás elementos, que no serán simples bloques.
+- En la pantalla principal aparecerá el escenario, se generará con un diseño similar al de netgui pero con un aspecto más moderno, fondo azul claro, con los pc como portátiles, y los routers y switches con un diseño más adaptado a los actuales. Los cables, aunque de lejos parezcan planos, tendrán cuerpo, al igual que todos los demás elementos, que no serán simples bloques.
 
 #### ???:
 - Tabla de elementos, la cual consistirá de los tres elementos principales del escenario, con un botón para desplegar, al hacerlo, se podrán ver, por ejemplo, todos los pcs que forman la escena. En cada uno, habrá dos botones, uno de ubicación, el cual llevará al punto de vista de ese elemento; y otro de info, que dará todos los detalles necesarios para entender el funcionamiento de ese elemento, como podría ser el flujo que pasa por él, su ubicación o el papel que tiene dentro del escenario.
