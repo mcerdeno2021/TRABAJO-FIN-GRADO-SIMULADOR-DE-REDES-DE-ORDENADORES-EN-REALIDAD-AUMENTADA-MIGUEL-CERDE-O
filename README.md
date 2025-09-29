@@ -6,7 +6,7 @@
 - Servirá como un apoyo didáctico con explicaciones y detalles.
 
 ## ??:
-- Diagrama de secuencia para los paquetes, cómo representarla, ¿Cómo en flow graph de Wireshark?.
+- Diagrama de secuencia para los paquetes, cómo representarla, ¿Cómo en flow graph de Wireshark?
 
 
 
