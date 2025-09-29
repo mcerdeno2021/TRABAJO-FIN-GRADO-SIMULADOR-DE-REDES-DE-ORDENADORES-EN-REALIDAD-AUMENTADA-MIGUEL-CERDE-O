@@ -32,5 +32,5 @@
 #### ???:
 - Los mensajes deben generarse (cuando no se haga sintéticamente) desde el principio o cuando les toque aparecer.
 - Cilindros equiespaciados para el rastro, esferas, ... 
-- Componente nuevo para el reproductor y slider
-- Se puede arrastrar el deslizador en una escena VR
+- Componente nuevo para el reproductor y slider.
+- Se puede arrastrar el deslizador en una escena VR.
