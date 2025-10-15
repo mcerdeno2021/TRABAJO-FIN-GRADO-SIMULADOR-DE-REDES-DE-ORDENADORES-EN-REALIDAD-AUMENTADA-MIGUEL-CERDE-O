@@ -51,7 +51,6 @@ AFRAME.registerComponent('historia', {
             });
 
             this.keysUsadas.push(keyNum);
-            let lastKey = "";
           }
         }
       })
